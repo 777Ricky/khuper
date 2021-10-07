@@ -1,5 +1,13 @@
-### Hi there 👋
+### Yo 👋
 
+I'm Coop welcome to my Github
+
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=khuper&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<img src="https://i.gifer.com/KVOc.gif" width="30px">
 <!--
 **khuper/khuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
